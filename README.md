@@ -4,9 +4,9 @@
 
 This project, developed using Scroll and Alchemy during the LevelUp Mini Hack, utilizes Zero Knowledge Proof (ZKP) and blockchain technology to build a secure and anonymous voting system. Foundry is used for smart contract development, and Circom is employed for zk-SNARK circuit generation.
 
-![Image](https://i.hizliresim.com/dyf8bwp.png)
+![Image](https://i.imgur.com/vh9ITxY.png)
 
-![Image](https://i.hizliresim.com/cije88m.png)
+![Image](https://i.imgur.com/5rnewki.png)
 
 ## Project Overview
 
